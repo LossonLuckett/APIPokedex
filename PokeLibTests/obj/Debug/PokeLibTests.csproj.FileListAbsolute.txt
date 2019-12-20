@@ -1,0 +1,16 @@
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\PokeLibTests.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\PokeLibTests.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\GetPoke.exe
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\nunit.framework.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\PokeLib.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\GetPoke.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\nunit.framework.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\nunit.framework.xml
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\PokeLib.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\obj\Debug\PokeLibTests.csprojResolveAssemblyReference.cache
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\obj\Debug\PokeLibTests.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLibTests\obj\Debug\PokeLibTests.pdb

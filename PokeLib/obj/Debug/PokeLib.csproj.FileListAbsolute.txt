@@ -1,0 +1,10 @@
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\PokeLib.dll.config
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\PokeLib.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\PokeLib.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\obj\Debug\PokeLib.dll
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\obj\Debug\PokeLib.pdb
+C:\Users\lluckett1\Desktop\GetPoke\PokeLib\obj\Debug\PokeLib.csprojResolveAssemblyReference.cache
